@@ -1,0 +1,786 @@
+Date,Opp,Name,ERA,FIP
+Aug 15,MIA,Sandy Alcantara,2.01,2.84
+Aug 15,TOR,Kevin Gausman,3.16,2.07
+Aug 15,SFG,Carlos Rodon,2.95,2.40
+Aug 15,PHI,Aaron Nola,3.07,2.76
+Aug 15,ATL,Max Fried,2.60,2.45
+Aug 15,HOU,Justin Verlander,1.85,2.91
+Aug 15,LAA,Shohei Ohtani,2.68,2.45
+Aug 15,CHW,Dylan Cease,1.96,2.75
+Aug 15,TBR,Shane McClanahan,2.28,2.64
+Aug 15,CLE,Shane Bieber,3.18,2.80
+Aug 15,PHI,Zack Wheeler,2.92,2.96
+Aug 15,NYM,Max Scherzer,1.93,2.40
+Aug 15,MIL,Corbin Burnes,2.39,3.04
+Aug 15,ATL,Spencer Strider,3.11,1.96
+Aug 15,ARI,Merrill Kelly,2.95,3.16
+Aug 15,SFG,Logan Webb,3.00,3.23
+Aug 15,SDP,Yu Darvish,3.40,3.35
+Aug 15,DET,Tarik Skubal,3.52,2.96
+Aug 15,LAD,Tyler Anderson,2.81,3.30
+Aug 15,TEX,Martin Perez,2.79,3.25
+Aug 15,HOU,Framber Valdez,2.73,3.22
+Aug 15,SDP,Joe Musgrove,2.91,3.34
+Aug 15,TOR,Alek Manoah,2.56,3.38
+Aug 15,NYY,Gerrit Cole,3.38,3.25
+Aug 15,LAD,Julio Urias,2.49,3.48
+Aug 15,- - -,Luis Castillo,2.71,3.16
+Aug 15,- - -,Jose Quintana,3.37,3.21
+Aug 15,NYY,Nestor Cortes,2.67,3.32
+Aug 15,LAD,Clayton Kershaw,2.64,2.71
+Aug 15,NYM,Edwin Diaz,1.33,0.92
+Aug 15,TBR,Corey Kluber,4.40,3.44
+Aug 15,STL,Miles Mikolas,3.44,3.71
+Aug 15,MIL,Brandon Woodruff,3.52,2.99
+Aug 15,LAA,Patrick Sandoval,3.42,3.26
+Aug 15,ARI,Zac Gallen,2.94,3.46
+Aug 15,- - -,Tyler Mahle,4.26,3.77
+Aug 15,SDP,Blake Snell,3.66,2.85
+Aug 15,NYM,Carlos Carrasco,3.76,3.41
+Aug 15,CHC,Justin Steele,3.63,3.28
+Aug 15,SFG,Alex Cobb,4.15,2.91
+Aug 15,NYM,Chris Bassitt,3.27,3.55
+Aug 15,SFG,Alex Wood,4.18,3.33
+Aug 15,LAD,Tony Gonsolin,2.24,3.46
+Aug 15,HOU,Cristian Javier,2.96,3.38
+Aug 15,MIA,Pablo Lopez,3.55,3.65
+Aug 15,STL,Adam Wainwright,3.27,3.71
+Aug 15,ATL,Kyle Wright,3.14,3.67
+Aug 15,TOR,Ross Stripling,3.16,3.02
+Aug 15,KCR,Brady Singer,3.29,3.60
+Aug 15,STL,Ryan Helsley,0.92,1.80
+Aug 15,- - -,Frankie Montas,3.59,3.53
+Aug 15,MIL,Devin Williams,1.62,1.56
+Aug 15,TEX,Jon Gray,3.83,3.48
+Aug 15,TBR,Drew Rasmussen,2.80,3.35
+Aug 15,NYM,Taijuan Walker,3.43,3.61
+Aug 15,SEA,Logan Gilbert,3.51,3.85
+Aug 15,COL,Kyle Freeland,4.84,4.25
+Aug 15,PIT,JT Brubaker,4.45,3.80
+Aug 15,- - -,Jordan Montgomery,3.37,3.76
+Aug 15,ATL,A.J. Minter,2.45,1.66
+Aug 15,NYY,Michael King,2.29,2.23
+Aug 15,CHW,Reynaldo Lopez,2.78,1.55
+Aug 15,PHI,Ranger Suarez,3.52,3.81
+Aug 15,CLE,Triston McKenzie,3.14,4.09
+Aug 15,CLE,Emmanuel Clase,1.29,1.92
+Aug 15,HOU,Luis Garcia,4.03,3.92
+Aug 15,TBR,Jeffrey Springs,2.56,3.29
+Aug 15,NYY,Jameson Taillon,3.95,4.01
+Aug 15,PIT,Mitch Keller,4.25,3.88
+Aug 15,MIL,Freddy Peralta,4.37,2.39
+Aug 15,MIN,Sonny Gray,3.33,3.54
+Aug 15,- - -,Noah Syndergaard,3.96,3.78
+Aug 15,BOS,Nick Pivetta,4.51,4.18
+Aug 15,SEA,George Kirby,3.39,3.49
+Aug 15,OAK,Cole Irvin,3.13,3.91
+Aug 15,BOS,John Schreiber,1.91,2.15
+Aug 15,BOS,Garrett Whitlock,2.98,3.10
+Aug 15,PHI,Kyle Gibson,4.29,4.28
+Aug 15,LAD,Evan Phillips,1.40,2.22
+Aug 15,CHW,Johnny Cueto,2.91,3.92
+Aug 15,PHI,Seranthony Dominguez,1.49,2.31
+Aug 15,TBR,Jason Adam,1.19,2.27
+Aug 15,COL,Antonio Senzatela,4.67,4.12
+Aug 15,- - -,Anthony Bass,1.43,2.34
+Aug 15,CLE,Trevor Stephan,2.60,1.96
+Aug 15,SEA,Robbie Ray,3.90,4.11
+Aug 15,PIT,David Bednar,2.70,2.49
+Aug 15,BOS,Michael Wacha,2.44,3.69
+Aug 15,- - -,Scott Effross,2.88,2.41
+Aug 15,CHW,Lucas Giolito,4.92,4.10
+Aug 15,- - -,Jake Odorizzi,3.80,3.78
+Aug 15,ATL,Charlie Morton,4.26,4.14
+Aug 15,SEA,Erik Swanson,1.00,1.75
+Aug 15,MIA,Braxton Garrett,3.67,3.46
+Aug 15,SDP,Sean Manaea,4.76,4.30
+Aug 15,TBR,Brooks Raley,2.41,1.88
+Aug 15,BAL,Jordan Lyles,4.48,4.39
+Aug 15,CHW,Liam Hendriks,3.10,2.57
+Aug 15,CIN,Graham Ashcraft,3.96,4.14
+Aug 15,CLE,Cal Quantrill,3.67,4.38
+Aug 15,KCR,Zack Greinke,4.29,4.24
+Aug 15,LAD,Andrew Heaney,1.16,2.18
+Aug 15,TEX,Brock Burke,1.34,2.80
+Aug 15,TEX,Dane Dunning,4.12,4.10
+Aug 15,- - -,Taylor Rogers,5.00,2.80
+Aug 15,MIN,Joe Ryan,3.95,4.24
+Aug 15,HOU,Ryan Pressly,2.86,2.16
+Aug 15,LAA,Reid Detmers,3.45,4.25
+Aug 15,HOU,Hector Neris,3.26,2.47
+Aug 15,PHI,Zach Eflin,4.37,3.83
+Aug 15,ARI,Joe Mantiply,1.96,2.42
+Aug 15,KCR,Daniel Lynch,4.52,4.08
+Aug 15,SEA,Andres Munoz,2.72,2.42
+Aug 15,CHC,Keegan Thompson,3.67,4.20
+Aug 15,HOU,Rafael Montero,2.08,2.69
+Aug 15,CLE,Zach Plesac,4.32,4.26
+Aug 15,CHW,Michael Kopech,3.18,4.41
+Aug 15,BAL,Tyler Wells,3.90,4.39
+Aug 15,- - -,Jorge Lopez,2.03,2.96
+Aug 15,DET,Joe Jimenez,3.48,1.98
+Aug 15,COL,German Marquez,5.08,4.70
+Aug 15,MIA,Jesus Luzardo,3.72,3.24
+Aug 15,CHC,Marcus Stroman,4.20,3.97
+Aug 15,BAL,Dean Kremer,3.69,3.70
+Aug 15,TBR,J.P. Feyereisen,0.00,1.67
+Aug 15,SDP,Nabil Crismatt,2.92,2.77
+Aug 15,LAD,Walker Buehler,4.02,3.80
+Aug 15,NYY,Clay Holmes,2.39,2.77
+Aug 15,ATL,Kenley Jansen,3.25,2.93
+Aug 15,DET,Andrew Chafin,2.35,2.33
+Aug 15,COL,Tyler Kinley,0.75,1.74
+Aug 15,STL,Giovanny Gallegos,3.40,2.92
+Aug 15,ATL,Ian Anderson,5.00,4.25
+Aug 15,NYM,Jacob deGrom,1.62,0.71
+Aug 15,MIN,Dylan Bundy,4.76,4.27
+Aug 15,MIN,Chris Paddack,4.03,1.72
+Aug 15,SDP,Mike Clevinger,3.47,4.04
+Aug 15,LAD,Craig Kimbrel,4.39,2.45
+Aug 15,OAK,Zach Jackson,2.86,2.68
+Aug 15,SDP,Luis Garcia,3.43,2.90
+Aug 15,- - -,Mitch White,3.72,3.86
+Aug 15,BAL,Felix Bautista,1.69,3.01
+Aug 15,MIN,Bailey Ober,4.01,2.79
+Aug 15,CHC,Drew Smyly,3.69,4.26
+Aug 15,ATL,Collin McHugh,3.06,2.97
+Aug 15,COL,Daniel Bard,2.16,3.42
+Aug 15,HOU,Jose Urquidy,3.85,4.50
+Aug 15,HOU,Bryan Abreu,2.40,2.07
+Aug 15,LAA,Jimmy Herget,3.07,3.00
+Aug 15,ARI,Madison Bumgarner,4.13,4.51
+Aug 15,- - -,Raisel Iglesias,3.70,2.89
+Aug 15,COL,Austin Gomber,5.56,4.62
+Aug 15,SFG,Jakob Junis,3.78,3.63
+Aug 15,CHC,Adrian Sampson,3.88,3.60
+Aug 15,SDP,MacKenzie Gore,4.50,4.11
+Aug 15,OAK,Paul Blackburn,4.28,4.21
+Aug 15,LAD,Daniel Hudson,2.22,2.04
+Aug 15,BAL,Bryan Baker,4.21,2.96
+Aug 15,NYY,Luis Severino,3.45,4.03
+Aug 15,SEA,Paul Sewald,2.31,3.50
+Aug 15,- - -,Jesse Chavez,2.92,2.93
+Aug 15,MIL,Adrian Houser,4.72,4.20
+Aug 15,SFG,Camilo Doval,2.76,3.09
+Aug 15,TEX,Matt Moore,2.00,3.13
+Aug 15,PHI,Nick Nelson,4.18,3.00
+Aug 15,NYM,Adam Ottavino,2.18,2.94
+Aug 15,BOS,Matt Strahm,3.58,2.61
+Aug 15,STL,Andre Pallante,3.03,3.85
+Aug 15,CLE,Eli Morgan,3.97,3.26
+Aug 15,TOR,David Phelps,2.58,2.74
+Aug 15,- - -,Michael Fulmer,3.20,3.31
+Aug 15,TOR,Jordan Romano,2.51,3.28
+Aug 15,BOS,Rich Hill,4.75,4.31
+Aug 15,MIL,Aaron Ashby,4.24,4.14
+Aug 15,MIN,Caleb Thielbar,4.20,2.96
+Aug 15,- - -,Matt Bush,3.21,3.09
+Aug 15,BOS,Kutter Crawford,4.18,3.87
+Aug 15,BOS,Tanner Houck,3.15,3.30
+Aug 15,TOR,Adam Cimber,3.17,3.44
+Aug 15,BAL,Spenser Watkins,4.23,4.32
+Aug 15,LAD,Alex Vesia,2.89,2.58
+Aug 15,CIN,Alexis Diaz,1.83,3.27
+Aug 15,PIT,Wil Crowe,3.34,3.48
+Aug 15,- - -,JP Sears,2.30,2.93
+Aug 15,MIN,Jhoan Duran,2.13,3.03
+Aug 15,ARI,Zach Davies,4.11,4.58
+Aug 15,- - -,David Robertson,2.03,3.32
+Aug 15,SDP,Tim Hill,3.24,2.69
+Aug 15,SFG,John Brebbia,2.90,3.23
+Aug 15,CLE,Aaron Civale,6.05,4.06
+Aug 15,DET,Alex Lange,3.13,2.94
+Aug 15,BOS,Nathan Eovaldi,4.15,4.50
+Aug 15,NYM,David Peterson,3.30,4.00
+Aug 15,CIN,Connor Overton,1.82,3.15
+Aug 15,LAA,Jose Quijada,2.96,2.91
+Aug 15,PHI,Connor Brogdon,1.80,2.47
+Aug 15,MIL,Hoby Milner,3.07,2.84
+Aug 15,NYM,Tylor Megill,5.01,3.60
+Aug 15,BOS,Ryan Brasier,5.20,3.20
+Aug 15,LAA,Michael Lorenzen,4.94,4.46
+Aug 15,STL,Dakota Hudson,4.17,4.51
+Aug 15,ATL,Dylan Lee,2.41,2.85
+Aug 15,COL,Lucas Gilbreath,3.63,3.39
+Aug 15,BAL,Dillon Tate,2.56,3.02
+Aug 15,PHI,Andrew Bellatti,3.55,3.03
+Aug 15,NYY,Lucas Luetge,2.75,2.91
+Aug 15,CIN,Hunter Greene,5.26,4.95
+Aug 15,SEA,Penn Murfee,2.49,2.86
+Aug 15,TOR,Yimi Garcia,2.93,3.36
+Aug 15,BAL,Cionel Perez,1.12,2.96
+Aug 15,CHW,Lance Lynn,5.62,4.27
+Aug 15,- - -,Austin Voth,5.34,3.99
+Aug 15,KCR,Brad Keller,4.93,4.66
+Aug 15,DET,Jason Foley,3.07,2.66
+Aug 15,CIN,Nick Lodolo,4.72,4.41
+Aug 15,PHI,Jose Alvarado,4.59,2.93
+Aug 15,KCR,Scott Barlow,2.26,3.71
+Aug 15,NYY,Wandy Peralta,2.20,3.13
+Aug 15,- - -,Chris Stratton,5.36,3.38
+Aug 15,ARI,Mark Melancon,4.43,3.58
+Aug 15,KCR,Taylor Clarke,4.02,3.47
+Aug 15,TEX,Dennis Santana,5.09,3.28
+Aug 15,DET,Gregory Soto,3.10,3.33
+Aug 15,- - -,Josh Hader,4.66,3.55
+Aug 15,CLE,Enyel De Los Santos,3.11,2.95
+Aug 15,PHI,Brad Hand,2.08,3.29
+Aug 15,STL,Steven Matz,5.70,3.93
+Aug 15,LAA,Jose Suarez,4.04,4.48
+Aug 15,MIL,Eric Lauer,3.64,4.68
+Aug 15,ARI,Kyle Nelson,1.57,2.79
+Aug 15,WSN,Erick Fedde,4.95,4.95
+Aug 15,HOU,Ryne Stanek,1.12,3.36
+Aug 15,TBR,Jalen Beeks,2.35,3.37
+Aug 15,PIT,Duane Underwood Jr.,4.25,3.11
+Aug 15,- - -,Chris Martin,4.06,3.11
+Aug 15,CLE,James Karinchak,1.72,1.07
+Aug 15,OAK,A.J. Puk,2.27,3.24
+Aug 15,COL,Chad Kuhl,5.16,5.21
+Aug 15,SEA,Chris Flexen,3.86,4.70
+Aug 15,MIN,Chris Archer,4.15,4.41
+Aug 15,TEX,Taylor Hearn,5.31,4.30
+Aug 15,CLE,Sam Hentges,3.16,2.92
+Aug 15,OAK,Dany Jimenez,3.77,3.01
+Aug 15,LAD,Brusdar Graterol,3.35,3.31
+Aug 15,OAK,Daulton Jefferies,5.72,3.77
+Aug 15,DET,Eduardo Rodriguez,4.38,4.01
+Aug 15,SDP,Nick Martinez,3.24,4.37
+Aug 15,DET,Will Vest,3.60,3.18
+Aug 15,WSN,Patrick Corbin,7.02,4.96
+Aug 15,DET,Matt Manning,3.24,3.75
+Aug 15,CHC,Wade Miley,2.84,3.27
+Aug 15,MIN,Griffin Jax,3.98,3.38
+Aug 15,NYM,Trevor Williams,3.02,4.00
+Aug 15,MIA,Trevor Rogers,5.85,4.57
+Aug 15,CHC,Rowan Wick,3.94,3.49
+Aug 15,WSN,Hunter Harvey,3.24,1.67
+Aug 15,SFG,Tyler Rogers,4.85,3.50
+Aug 15,DET,Drew Hutchison,4.45,4.32
+Aug 15,LAD,Yency Almonte,1.15,3.27
+Aug 15,ATL,Jackson Stephens,2.66,3.24
+Aug 15,MIN,Cody Stashak,3.86,2.07
+Aug 15,- - -,Zach Pop,3.04,2.77
+Aug 15,STL,Packy Naughton,4.94,3.22
+Aug 15,CHW,Kendall Graveman,2.72,3.62
+Aug 15,MIN,Jovani Moran,1.93,2.38
+Aug 15,CHC,Kyle Hendricks,4.80,4.82
+Aug 15,CIN,Buck Farmer,5.04,3.47
+Aug 15,- - -,Colin Holderman,1.73,3.11
+Aug 15,DET,Alex Faedo,5.53,4.62
+Aug 15,BAL,John Means,3.38,2.11
+Aug 15,KCR,Amir Garrett,4.60,3.53
+Aug 15,- - -,Ian Gibaut,5.94,2.87
+Aug 15,LAD,Caleb Ferguson,0.00,2.49
+Aug 15,NYY,Chad Green,3.00,2.85
+Aug 15,CLE,Konnor Pilkington,4.17,4.22
+Aug 15,MIA,Edward Cabrera,2.05,3.83
+Aug 15,COL,Ryan Feltner,6.39,4.81
+Aug 15,SEA,Diego Castillo,3.72,3.58
+Aug 15,TBR,Pete Fairbanks,3.00,1.45
+Aug 15,MIN,Trevor Megill,3.10,3.11
+Aug 15,CHW,Joe Kelly,5.84,3.03
+Aug 15,KCR,Kris Bubic,5.02,4.76
+Aug 15,WSN,Kyle Finnegan,3.55,4.08
+Aug 15,LAA,Aaron Loup,4.43,3.70
+Aug 15,- - -,Shawn Armstrong,5.15,3.36
+Aug 15,CHW,Jimmy Lambert,3.07,3.69
+Aug 15,DET,Tyler Alexander,3.98,4.24
+Aug 15,MIA,Tanner Scott,4.60,3.73
+Aug 15,KCR,Josh Staumont,5.77,3.75
+Aug 15,SEA,Matthew Festa,3.44,3.29
+Aug 15,COL,Alex Colome,4.68,3.92
+Aug 15,WSN,Sean Doolittle,0.00,0.86
+Aug 15,SDP,Pierce Johnson,4.50,1.45
+Aug 15,MIA,Cole Sulser,3.86,3.28
+Aug 15,MIA,Jeff Brigham,3.72,2.28
+Aug 15,- - -,Luke Weaver,7.97,2.92
+Aug 15,LAD,David Price,2.59,3.27
+Aug 15,NYY,Ron Marinaccio,2.03,3.22
+Aug 15,WSN,Tanner Rainey,3.30,4.18
+Aug 15,CHW,Davis Martin,4.25,4.39
+Aug 15,SFG,Dominic Leone,4.28,3.66
+Aug 15,LAA,Archie Bradley,4.82,3.33
+Aug 15,LAA,Jaime Barria,2.44,4.13
+Aug 15,BOS,Austin Davis,4.70,4.00
+Aug 15,CHC,Michael Rucker,4.73,3.64
+Aug 15,TBR,Phoenix Sanders,3.07,2.09
+Aug 15,TEX,Garrett Richards,5.53,3.53
+Aug 15,HOU,Seth Martinez,2.48,3.69
+Aug 15,SEA,Matt Brash,5.67,4.25
+Aug 15,NYY,Clarke Schmidt,2.40,3.65
+Aug 15,SFG,Sean Hjelle,9.00,1.11
+Aug 15,MIL,Brad Boxberger,2.51,4.00
+Aug 15,TEX,Josh Sborz,4.91,3.17
+Aug 15,DET,Rony Garcia,4.41,4.52
+Aug 15,MIN,Josh Winder,3.77,4.61
+Aug 15,CIN,Jeff Hoffman,3.83,4.30
+Aug 15,BOS,Hirokazu Sawamura,3.18,3.75
+Aug 15,CIN,Justin Wilson,2.45,-0.71
+Aug 15,TEX,Jonathan Hernandez,2.70,1.91
+Aug 15,- - -,Wyatt Mills,4.05,3.56
+Aug 15,KCR,Daniel Mengden,2.08,0.34
+Aug 15,MIA,Dylan Floro,3.62,3.61
+Aug 15,LAA,Kyle Barraclough,3.00,2.45
+Aug 15,MIL,Peter Strzelecki,3.18,1.52
+Aug 15,ARI,Ian Kennedy,2.97,4.15
+Aug 15,DET,Joey Wentz,8.10,2.51
+Aug 15,MIA,Tommy Nance,5.46,3.40
+Aug 15,CHW,Vince Velasquez,5.21,4.70
+Aug 15,TOR,Julian Merryweather,6.38,3.49
+Aug 15,COL,Carlos Estevez,4.28,4.26
+Aug 15,CHW,Aaron Bummer,3.06,3.34
+Aug 15,LAA,Janson Junk,6.48,3.11
+Aug 15,NYM,Seth Lugo,3.43,3.67
+Aug 15,TBR,Ryan Thompson,3.76,3.76
+Aug 15,BOS,Brayan Bello,8.47,3.64
+Aug 15,PIT,Max Kranick,0.00,3.31
+Aug 15,BAL,Keegan Akin,2.63,3.84
+Aug 15,CIN,Tony Santillan,5.49,4.08
+Aug 15,NYM,Joely Rodriguez,5.01,3.51
+Aug 15,- - -,Manny Banuelos,3.48,3.06
+Aug 15,TEX,Brett Martin,3.79,3.86
+Aug 15,BOS,Chris Sale,3.18,2.41
+Aug 15,NYY,Luis Gil,9.00,2.11
+Aug 15,COL,Ty Blach,6.46,4.29
+Aug 15,ARI,Tyler Holton,2.70,2.06
+Aug 15,PIT,Roansy Contreras,3.78,4.89
+Aug 15,BAL,Denyi Reyes,2.35,2.72
+Aug 15,CIN,Joel Kuhnel,5.30,4.16
+Aug 15,ARI,Humberto Castellanos,5.68,4.80
+Aug 15,SDP,Reiss Knehr,1.50,3.03
+Aug 15,CHW,Matt Foster,4.50,4.16
+Aug 15,CHW,Kyle Crick,4.02,3.18
+Aug 15,BAL,Joey Krehbiel,2.40,3.89
+Aug 15,COL,Robert Stephenson,5.58,4.38
+Aug 15,- - -,Logan Allen,5.87,3.63
+Aug 15,MIA,Huascar Brazoban,1.74,2.92
+Aug 15,WSN,Joan Adon,7.10,5.11
+Aug 15,MIN,Jhon Romero,3.60,1.31
+Aug 15,STL,Zack Thompson,2.45,3.79
+Aug 15,DET,Beau Brieske,4.19,4.97
+Aug 15,COL,Justin Lawrence,5.60,3.79
+Aug 15,- - -,Eric Stout,2.84,3.98
+Aug 15,KCR,Gabe Speier,2.33,3.78
+Aug 15,STL,Johan Oviedo,3.20,4.06
+Aug 15,PHI,James Norwood,8.31,3.63
+Aug 15,CHC,Brandon Hughes,3.03,3.87
+Aug 15,BAL,DL Hall,12.27,2.29
+Aug 15,STL,Jake Woodford,2.82,3.60
+Aug 15,CHW,Tanner Banks,3.16,3.84
+Aug 15,LAA,Jhonathan Diaz,2.93,4.48
+Aug 15,HOU,Parker Mushinski,3.68,2.57
+Aug 15,- - -,Anthony Banda,5.88,3.92
+Aug 15,WSN,Carl Edwards Jr.,3.24,4.19
+Aug 15,SFG,Mauricio Llovera,4.41,3.72
+Aug 15,TOR,Jose Berrios,5.61,5.07
+Aug 15,- - -,Aaron Sanchez,7.68,4.93
+Aug 15,TBR,Shane Baz,5.00,4.41
+Aug 15,SDP,Adrian Morejon,4.11,3.70
+Aug 15,TBR,Matt Wisler,2.36,4.35
+Aug 15,STL,James Naile,0.00,1.78
+Aug 15,PIT,Yerry De Los Santos,4.91,4.01
+Aug 15,HOU,Lance McCullers Jr.,0.00,3.45
+Aug 15,ATL,Bryce Elder,4.45,4.81
+Aug 15,DET,Casey Mize,5.40,4.21
+Aug 15,NYY,Miguel Castro,4.00,3.74
+Aug 15,SDP,Tayler Scott,6.75,3.53
+Aug 15,TOR,Hyun-Jin Ryu,5.67,4.78
+Aug 15,WSN,Steve Cishek,3.86,4.26
+Aug 15,PHI,Mark Appel,1.74,3.02
+Aug 15,CHC,Steven Brault,0.00,2.94
+Aug 15,MIA,Richard Bleier,3.93,3.78
+Aug 15,ARI,Edwin Uceta,4.61,3.48
+Aug 15,BAL,Logan Gillaspie,4.09,3.20
+Aug 15,STL,Nick Wittgren,5.90,3.84
+Aug 15,SFG,Jarlin Garcia,2.86,4.04
+Aug 15,BOS,Kaleb Ort,9.00,4.05
+Aug 15,NYY,Domingo German,4.18,5.01
+Aug 15,TOR,Tim Mayza,2.88,3.93
+Aug 15,WSN,Mason Thompson,1.13,2.86
+Aug 15,- - -,Lou Trivino,5.59,3.76
+Aug 15,TBR,Ryan Yarbrough,5.08,4.81
+Aug 15,- - -,Alex Young,1.59,2.94
+Aug 15,SDP,Steven Wilson,3.57,4.53
+Aug 15,MIN,Juan Minaya,5.59,3.32
+Aug 15,MIA,Daniel Castano,4.04,4.74
+Aug 15,STL,Jordan Hicks,4.89,4.53
+Aug 15,STL,Angel Rondon,0.00,3.31
+Aug 15,LAA,Ryan Tepera,3.77,4.11
+Aug 15,BAL,Marcos Diplan,1.59,2.94
+Aug 15,MIL,Jake Cousins,4.50,3.74
+Aug 15,DET,Drew Carlton,2.08,3.00
+Aug 15,OAK,Ryan Castellani,0.00,2.36
+Aug 15,ARI,Tommy Henry,4.15,5.13
+Aug 15,LAA,Touki Toussaint,2.70,4.84
+Aug 15,WSN,Victor Arano,5.24,4.19
+Aug 15,CHW,Anderson Severino,6.14,3.11
+Aug 15,BAL,Cody Sedlock,15.00,2.11
+Aug 15,ARI,Chris Devenski,5.63,3.74
+Aug 15,NYM,Adonis Medina,2.86,3.84
+Aug 15,SEA,Justus Sheffield,0.00,3.11
+Aug 15,ATL,Darren O'Day,4.15,4.04
+Aug 15,PIT,Austin Brice,5.79,3.33
+Aug 15,TBR,JT Chargois,0.00,0.11
+Aug 15,MIL,Trevor Gott,4.03,4.09
+Aug 15,BOS,Josh Winckowski,4.69,4.94
+Aug 15,TOR,Matt Gage,1.38,3.88
+Aug 15,DET,Wily Peralta,2.65,4.02
+Aug 15,- - -,Mychal Givens,3.55,4.21
+Aug 15,CIN,Ryan Hendrix,5.40,3.83
+Aug 15,STL,Jake Walsh,13.50,2.74
+Aug 15,ARI,Jake Hager,7.71,2.26
+Aug 15,- - -,Tyler Beede,3.72,4.50
+Aug 15,SDP,Michel Baez,0.00,1.11
+Aug 15,TOR,Max Castillo,3.05,4.42
+Aug 15,SDP,Ryan Weathers,9.82,4.75
+Aug 15,SDP,Kyle Tyler,0.00,2.86
+Aug 15,BOS,Phillips Valdez,4.41,3.91
+Aug 15,TEX,Jose Leclerc,3.54,4.58
+Aug 15,SEA,Ken Giles,0.00,3.11
+Aug 15,PIT,Cam Alldred,0.00,1.11
+Aug 15,LAD,Ryan Pepiot,3.92,5.24
+Aug 15,LAD,Michael Grove,5.79,4.40
+Aug 15,- - -,Robert Dugger,6.19,4.49
+Aug 15,DET,Luis Castillo,0.00,2.11
+Aug 15,MIN,Danny Coulombe,1.46,3.84
+Aug 15,MIA,Aneurys Zabala,0.00,2.74
+Aug 15,NYM,Tommy Hunter,2.51,4.02
+Aug 15,BAL,Mike Baumann,4.50,4.45
+Aug 15,MIA,Jordan Holloway,3.38,2.74
+Aug 15,WSN,Andres Machado,4.57,4.29
+Aug 15,PHI,Nick Duron,0.00,1.11
+Aug 15,ATL,William Woods,0.00,2.61
+Aug 15,TBR,Cristofer Ogando,4.50,3.61
+Aug 15,MIA,Nick Neidert,3.60,4.51
+Aug 15,- - -,Dinelson Lamet,6.75,4.21
+Aug 15,BOS,Yolmer Sanchez,9.00,3.11
+Aug 15,DET,Tucker Barnhart,9.00,3.11
+Aug 15,DET,Jose Cisnero,1.13,3.99
+Aug 15,TOR,Bowden Francis,0.00,0.11
+Aug 15,TBR,Luke Bard,1.93,3.90
+Aug 15,CHW,Jose Ruiz,4.03,4.16
+Aug 15,TOR,Anthony Kay,4.50,3.11
+Aug 15,LAA,Kenny Rosenberg,4.22,4.52
+Aug 15,LAA,Cesar Valdez,9.00,3.11
+Aug 15,CLE,Sandy Leon,0.00,3.11
+Aug 15,LAA,Jose Marte,5.06,4.42
+Aug 15,COL,Randal Grichuk,0.00,3.11
+Aug 15,WSN,Stephen Strasburg,13.50,5.68
+Aug 15,LAA,Jack Mayfield,0.00,3.11
+Aug 15,SFG,Anthony DeSclafani,6.63,4.85
+Aug 15,SEA,Brennan Bernardino,3.86,5.68
+Aug 15,PIT,Chase De Jong,2.55,4.58
+Aug 15,SFG,Luis Gonzalez,5.06,3.67
+Aug 15,BOS,Kevin Plawecki,0.00,3.11
+Aug 15,TEX,Charlie Culberson,0.00,3.11
+Aug 15,TOR,Shaun Anderson,18.00,3.11
+Aug 15,LAD,Hanser Alberto,2.25,3.86
+Aug 15,BAL,Chris Owings,9.00,3.11
+Aug 15,OAK,Sheldon Neuse,0.00,3.11
+Aug 15,KCR,Joel Payamps,3.32,4.44
+Aug 15,COL,Jordan Sheffield,0.00,5.11
+Aug 15,WSN,Ehire Adrianza,0.00,4.11
+Aug 15,CHC,Andrelton Simmons,45.00,6.11
+Aug 15,CHC,Conner Menez,0.00,4.11
+Aug 15,CHC,Caleb Kilian,10.32,4.97
+Aug 15,MIA,Jake Fishman,2.70,4.01
+Aug 15,MIN,Jorge Alcala,0.00,3.97
+Aug 15,TEX,Jesus Tinoco,4.76,3.99
+Aug 15,SEA,Riley O'Brien,0.00,4.11
+Aug 15,MIL,Mike Brosseau,0.00,4.11
+Aug 15,DET,Kody Clemens,6.00,4.11
+Aug 15,LAD,Blake Treinen,3.00,4.11
+Aug 15,DET,Harold Castro,4.50,4.11
+Aug 15,ARI,Carson Kelly,13.50,4.61
+Aug 15,- - -,Tyler Thornburg,3.32,4.22
+Aug 15,TBR,Josh Fleming,6.84,4.14
+Aug 15,COL,Brian Serven,0.00,6.11
+Aug 15,CHC,Robert Gsellman,4.70,4.22
+Aug 15,ATL,Silvino Bracho,0.00,6.11
+Aug 15,SFG,Austin Wynns,18.00,6.11
+Aug 15,HOU,Enoli Paredes,3.00,4.78
+Aug 15,OAK,Christian Bethancourt,0.00,6.11
+Aug 15,WSN,Erasmo Ramirez,3.53,4.58
+Aug 15,CIN,Reiver Sanmartin,6.63,4.82
+Aug 15,PIT,Zach Thompson,5.34,5.31
+Aug 15,BAL,Nick Vespi,3.98,4.00
+Aug 15,SEA,Drew Steckenrider,5.65,4.58
+Aug 15,SDP,Austin Adams,0.00,5.26
+Aug 15,- - -,Matt Peacock,5.40,4.41
+Aug 15,SFG,Gregory Santos,4.91,4.48
+Aug 15,WSN,Paolo Espino,4.20,4.80
+Aug 15,HOU,Pedro Baez,11.57,5.26
+Aug 15,SEA,Marco Gonzales,4.18,5.10
+Aug 15,HOU,Brandon Bielak,3.48,4.18
+Aug 15,CHC,Matt Dermody,18.00,7.11
+Aug 15,COL,Ashton Goudeau,7.08,4.93
+Aug 15,MIL,Luis Perdomo,1.74,4.37
+Aug 15,OAK,Sam Moll,3.03,4.29
+Aug 15,ARI,Kevin Ginkel,8.44,4.42
+Aug 15,BAL,Zac Lowther,8.44,4.42
+Aug 15,TEX,A.J. Alexy,13.50,5.61
+Aug 15,WSN,Alcides Escobar,10.80,6.71
+Aug 15,CIN,Matt Reynolds,6.75,7.61
+Aug 15,MIA,Willians Astudillo,0.00,6.11
+Aug 15,PIT,Bryse Wilson,5.93,5.19
+Aug 15,PHI,Corey Knebel,3.43,4.46
+Aug 15,PHI,Michael Kelly,2.25,5.86
+Aug 15,SDP,Pedro Avila,4.50,5.36
+Aug 15,NYY,Ryan Weber,1.17,4.68
+Aug 15,SEA,Roenis Elias,3.52,4.42
+Aug 15,COL,Chad Smith,11.81,5.17
+Aug 15,BOS,Jackie Bradley Jr.,9.00,10.11
+Aug 15,SEA,Anthony Misiewicz,4.61,4.21
+Aug 15,PHI,Damon Jones,9.64,6.11
+Aug 15,OAK,Justin Grimm,4.11,4.29
+Aug 15,CIN,Lucas Sims,9.45,4.76
+Aug 15,- - -,Beau Sulser,4.05,4.61
+Aug 15,KCR,Foster Griffin,12.46,5.65
+Aug 15,ATL,Kyle Muller,10.57,5.46
+Aug 15,SEA,Danny Young,7.36,5.57
+Aug 15,MIL,Jandel Gustave,3.86,4.43
+Aug 15,WSN,Evan Lee,4.15,5.77
+Aug 15,OAK,Chad Pinder,27.00,12.11
+Aug 15,MIL,Brent Suter,4.09,4.20
+Aug 15,LAD,Phil Bickford,5.05,4.53
+Aug 15,WSN,Patrick Murphy,6.35,5.94
+Aug 15,SDP,Matthew Batten,4.50,8.61
+Aug 15,ARI,Keynan Middleton,1.64,4.48
+Aug 15,PHI,Cristopher Sanchez,3.80,4.76
+Aug 15,CIN,Ross Detwiler,3.54,4.78
+Aug 15,TEX,Nicklaus Snyder,18.00,12.11
+Aug 15,- - -,Shane Greene,6.00,7.11
+Aug 15,LAD,Justin Bruihl,3.57,4.70
+Aug 15,SEA,Luis Torrens,9.00,16.11
+Aug 15,BOS,Michael Feliz,2.70,6.41
+Aug 15,- - -,Paul Fry,6.23,4.50
+Aug 15,- - -,Albert Abreu,2.91,4.70
+Aug 15,ATL,Kirby Yates,9.00,9.11
+Aug 15,MIA,Max Meyer,7.50,6.45
+Aug 15,OAK,Parker Markel,0.00,6.11
+Aug 15,LAD,Garrett Cleavinger,10.38,5.65
+Aug 15,MIL,JC Mejia,23.14,8.68
+Aug 15,PHI,JoJo Romero,13.50,10.11
+Aug 15,BAL,Alex Wells,4.91,6.93
+Aug 15,CHW,Josh Harrison,9.00,10.11
+Aug 15,TBR,Yu Chang,13.50,9.61
+Aug 15,PIT,Cam Vieaux,14.40,5.51
+Aug 15,PHI,Bubby Rossman,18.00,17.11
+Aug 15,ATL,Mike Ford,18.00,19.11
+Aug 15,KCR,Michael A. Taylor,9.00,10.61
+Aug 15,CHC,Erich Uelmen,2.79,4.97
+Aug 15,MIN,Nick Gordon,9.00,9.45
+Aug 15,LAD,Robbie Erlin,9.00,10.11
+Aug 15,CIN,Daniel Duarte,10.13,9.86
+Aug 15,SFG,Yunior Marte,6.15,4.27
+Aug 15,HOU,Ronel Blanco,7.11,5.32
+Aug 15,- - -,Jake McGee,6.52,4.46
+Aug 15,OAK,Sam Selman,4.30,4.41
+Aug 15,TEX,Joe Barlow,3.26,4.30
+Aug 15,CIN,T.J. Zeuch,13.50,7.36
+Aug 15,TEX,Glenn Otto,5.20,5.28
+Aug 15,SFG,Donovan Walton,27.00,19.11
+Aug 15,NYM,Sean Reid-Foley,5.40,5.21
+Aug 15,LAA,Andrew Wantz,3.41,4.66
+Aug 15,STL,Matthew Liberatore,5.33,5.45
+Aug 15,SDP,Ray Kerr,9.00,6.91
+Aug 15,KCR,Angel Zerpa,1.64,5.75
+Aug 15,CHC,Locke St. John,13.50,12.11
+Aug 15,- - -,David McKay,6.75,5.96
+Aug 15,PIT,Dillon Peters,4.58,4.74
+Aug 15,- - -,Tucker Davidson,6.75,5.40
+Aug 15,LAA,Mike Mayers,4.50,5.03
+Aug 15,TOR,Andrew Vasquez,8.10,5.96
+Aug 15,OAK,Domingo Tapia,8.76,4.90
+Aug 15,NYM,Drew Smith,3.51,4.38
+Aug 15,BAL,Chris Ellis,10.38,7.04
+Aug 15,MIA,Steven Okert,2.68,4.45
+Aug 15,MIL,Luke Barker,11.25,8.11
+Aug 15,MIN,Cole Sands,7.08,4.93
+Aug 15,NYM,Yoan Lopez,5.73,5.29
+Aug 15,OAK,Zach Logue,5.49,5.33
+Aug 15,HOU,Blake Taylor,3.94,4.86
+Aug 15,COL,Jhoulys Chacin,7.36,4.70
+Aug 15,MIA,Cody Poteet,3.86,4.65
+Aug 15,DET,Bryan Garcia,2.35,6.37
+Aug 15,- - -,Kervin Castro,12.71,5.76
+Aug 15,WSN,Tyler Clippard,9.00,8.61
+Aug 15,OAK,Adam Kolarek,4.58,4.70
+Aug 15,MIL,Ethan Small,7.11,6.74
+Aug 15,TBR,Dusten Knight,4.50,5.99
+Aug 15,ATL,Tyler Matzek,3.58,4.45
+Aug 15,ARI,Corbin Martin,4.84,4.59
+Aug 15,ARI,Taylor Widener,9.64,6.54
+Aug 15,TEX,Spencer Patton,3.86,5.68
+Aug 15,PIT,Diego Castillo,36.00,14.61
+Aug 15,MIL,Connor Sadzeck,9.00,11.45
+Aug 15,WSN,Jordan Weems,6.57,5.02
+Aug 15,TOR,Jeremy Beasley,4.80,5.45
+Aug 15,BAL,Rico Garcia,6.00,7.78
+Aug 15,ARI,Luis Frias,13.50,6.11
+Aug 15,WSN,Dee Strange-Gordon,27.00,28.11
+Aug 15,LAD,Reyes Moronta,4.50,5.20
+Aug 15,CIN,Max Schrock,45.00,29.11
+Aug 15,KCR,Jose Cuas,3.91,4.61
+Aug 15,TOR,Trent Thornton,4.50,4.85
+Aug 15,MIN,Ian Hamilton,6.75,9.11
+Aug 15,SDP,Wil Myers,18.00,29.11
+Aug 15,STL,Yadier Molina,18.00,15.11
+Aug 15,DET,Angel De Jesus,2.89,6.01
+Aug 15,KCR,Nicky Lopez,18.00,29.11
+Aug 15,WSN,Jackson Tetreault,5.14,6.16
+Aug 15,LAA,Brian Moran,54.00,51.11
+Aug 15,ARI,Sean Poppen,3.91,4.45
+Aug 15,CLE,Nick Sandlin,2.43,4.46
+Aug 15,ARI,Oliver Perez,15.75,7.36
+Aug 15,SDP,Robert Suarez,2.89,4.58
+Aug 15,BAL,Kyle Bradish,6.42,5.16
+Aug 15,TEX,Tyson Miller,18.00,8.11
+Aug 15,SDP,Craig Stammen,3.34,4.50
+Aug 15,CLE,Ernie Clement,18.00,16.11
+Aug 15,MIL,Jason Alexander,5.52,5.26
+Aug 15,PIT,Miguel Yajure,8.16,5.76
+Aug 15,DET,Derek Law,4.50,10.61
+Aug 15,- - -,Sean Newcomb,8.22,5.33
+Aug 15,STL,Albert Pujols,36.00,32.11
+Aug 15,CLE,Tanner Tully,6.00,7.61
+Aug 15,NYY,Jonathan Loaisiga,6.31,4.55
+Aug 15,WSN,Josiah Gray,4.81,5.60
+Aug 15,WSN,Reed Garrett,8.22,6.90
+Aug 15,NYY,Aroldis Chapman,3.94,4.49
+Aug 15,- - -,Jose Urena,4.80,5.64
+Aug 15,MIA,Anthony Bender,3.26,4.77
+Aug 15,TBR,Andrew Kittredge,3.15,4.61
+Aug 15,SEA,Matt Koch,8.31,8.42
+Aug 15,CLE,Anthony Gose,4.71,5.06
+Aug 15,TEX,Cole Ragans,4.82,7.29
+Aug 15,PIT,Aaron Fletcher,6.94,6.11
+Aug 15,WSN,Francisco Perez,7.27,7.61
+Aug 15,LAA,Austin Warren,5.63,5.36
+Aug 15,CIN,Jared Solomon,10.80,7.79
+Aug 15,ATL,Huascar Ynoa,13.50,7.31
+Aug 15,PIT,Sam Howard,9.00,16.11
+Aug 15,PHI,Bailey Falter,4.85,5.70
+Aug 15,LAA,Oliver Ortega,3.71,4.76
+Aug 15,CIN,Art Warren,6.91,4.96
+Aug 15,PIT,Jerad Eickhoff,20.77,10.04
+Aug 15,ATL,Jesus Cruz,6.23,7.96
+Aug 15,STL,Aaron Brooks,7.71,6.76
+Aug 15,WSN,Sam Clay,10.38,9.57
+Aug 15,STL,Jack Flaherty,5.63,6.99
+Aug 15,- - -,Jake Reed,9.00,6.89
+Aug 15,PHI,Francisco Morales,7.20,8.71
+Aug 15,KCR,Arodys Vizcaino,6.35,8.05
+Aug 15,PHI,Garrett Stubbs,27.00,24.11
+Aug 15,OAK,Domingo Acevedo,3.16,4.34
+Aug 15,MIA,A.J. Ladwig,10.80,10.91
+Aug 15,- - -,Louis Head,6.49,5.01
+Aug 15,KCR,Dylan Coleman,2.87,4.62
+Aug 15,STL,Kodi Whitley,5.68,5.88
+Aug 15,TEX,John King,4.36,4.57
+Aug 15,NYM,Trevor May,6.57,5.54
+Aug 15,PHI,Jeurys Familia,6.09,4.88
+Aug 15,CLE,Hunter Gaddis,21.60,11.51
+Aug 15,CIN,Luis Cessa,5.80,5.08
+Aug 15,KCR,Ronald Bolanos,4.42,5.68
+Aug 15,LAA,Elvis Peguero,6.75,5.59
+Aug 15,TBR,Brett Phillips,18.00,14.36
+Aug 15,NYM,Stephen Nogosek,2.30,5.92
+Aug 15,BOS,Tyler Danish,4.02,4.74
+Aug 15,LAA,Chase Silseth,6.59,5.97
+Aug 15,KCR,Collin Snider,7.71,4.92
+Aug 15,TBR,Tommy Romero,7.71,9.76
+Aug 15,LAD,Tommy Kahnle,6.75,9.36
+Aug 15,BOS,Connor Seabold,11.91,7.26
+Aug 15,CHC,Mark Leiter Jr.,4.72,4.96
+Aug 15,MIN,Devin Smeltzer,4.02,5.49
+Aug 15,BOS,Matt Barnes,6.75,4.89
+Aug 15,TBR,Luis Patino,6.75,7.49
+Aug 15,- - -,Chi Chi Gonzalez,6.87,6.00
+Aug 15,OAK,Adrian Martinez,6.08,5.94
+Aug 15,CHC,Frank Schwindel,18.00,21.45
+Aug 15,MIN,Dereck Rodriguez,6.75,14.11
+Aug 15,COL,Jake Bird,5.11,5.34
+Aug 15,DET,Garrett Hill,4.66,5.81
+Aug 15,TOR,Thomas Hatch,19.29,11.68
+Aug 15,- - -,Javy Guerra,10.80,8.99
+Aug 15,- - -,Jimmy Yacabonis,7.62,6.27
+Aug 15,OAK,Austin Pruitt,4.50,4.86
+Aug 15,SFG,Zack Littell,5.04,4.99
+Aug 15,KCR,Carlos Hernandez,9.08,5.92
+Aug 15,CIN,Phillip Diehl,11.12,10.52
+Aug 15,MIL,Miguel Sanchez,4.05,6.49
+Aug 15,BAL,Travis Lakins Sr.,9.58,7.37
+Aug 15,ARI,J.B. Wendelken,5.28,5.01
+Aug 15,KCR,Jake Brentz,23.63,8.36
+Aug 15,TBR,Calvin Faucher,7.11,5.95
+Aug 15,STL,Junior Fernandez,2.93,5.85
+Aug 15,NYM,Chasen Shreve,6.49,5.01
+Aug 15,DET,Michael Pineda,5.27,5.81
+Aug 15,CHW,Bennett Sousa,8.41,5.47
+Aug 15,CIN,Justin Dunn,8.64,9.71
+Aug 15,KCR,Jackson Kowar,9.77,6.37
+Aug 15,OAK,James Kaprielian,4.38,5.19
+Aug 15,OAK,Jared Koenig,6.39,6.03
+Aug 15,DET,Jacob Barnes,6.10,5.48
+Aug 15,- - -,Yohan Ramirez,6.28,6.74
+Aug 15,MIN,Yennier Cano,9.22,6.55
+Aug 15,SFG,Sammy Long,3.61,5.07
+Aug 15,WSN,Josh Rogers,5.13,6.42
+Aug 15,HOU,Phil Maton,3.91,4.76
+Aug 15,PIT,Josh VanMeter,39.00,26.78
+Aug 15,CHW,Ryan Burr,6.00,7.22
+Aug 15,ARI,Tyler Gilbert,5.24,5.94
+Aug 15,SEA,Tommy Milone,5.40,6.89
+Aug 15,CHC,Ethan Roberts,8.22,8.59
+Aug 15,TBR,Ralph Garza,3.34,5.17
+Aug 15,TOR,Trevor Richards,5.04,5.02
+Aug 15,STL,T.J. McFarland,6.61,5.32
+Aug 15,- - -,Daniel Norris,5.97,5.45
+Aug 15,CIN,Hunter Strickland,5.70,5.60
+Aug 15,ARI,Noe Ramirez,4.40,4.78
+Aug 15,TEX,Greg Holland,7.71,9.97
+Aug 15,OAK,Jacob Lemoine,7.71,5.99
+Aug 15,CHC,Anderson Espinoza,4.11,6.63
+Aug 15,WSN,Cory Abbott,5.94,7.43
+Aug 15,MIN,Emilio Pagan,5.10,4.62
+Aug 15,TOR,Casey Lawrence,8.04,6.88
+Aug 15,- - -,Dallas Keuchel,8.53,5.78
+Aug 15,SFG,Jose Alvarez,5.28,5.85
+Aug 15,CIN,Dauri Moreta,6.23,6.28
+Aug 15,TOR,Tayler Saucedo,13.50,18.86
+Aug 15,KCR,Jon Heasley,5.61,5.95
+Aug 15,MIN,Tyler Duffey,4.91,4.79
+Aug 15,BAL,Bruce Zimmermann,5.85,5.79
+Aug 15,CIN,Vladimir Gutierrez,7.61,6.82
+Aug 15,TBR,Chris Mazza,11.81,13.05
+Aug 15,MIN,Jharel Cotton,2.83,5.48
+Aug 15,BOS,Darwinzon Hernandez,21.60,12.71
+Aug 15,CLE,Anthony Castro,7.43,8.44
+Aug 15,OAK,Kirby Snead,6.43,5.68
+Aug 15,CLE,Bryan Shaw,5.10,5.33
+Aug 15,CLE,Kirk McCarty,6.04,7.55
+Aug 15,WSN,Anibal Sanchez,7.20,7.48
+Aug 15,CHC,Alec Mills,9.68,8.04
+Aug 15,- - -,Thomas Szapucki,54.00,43.91
+Aug 15,- - -,Will Smith,4.43,5.32
+Aug 15,MIL,Trevor Kelley,6.63,7.32
+Aug 15,- - -,Ryan Borucki,5.68,6.07
+Aug 15,STL,Drew VerHagen,6.65,6.53
+Aug 15,- - -,Jake Diekman,4.15,5.12
+Aug 15,CIN,Mike Minor,6.24,6.74
+Aug 15,TOR,Yusei Kikuchi,5.13,5.86
+Aug 15,TBR,Colin Poche,3.00,5.32
+Aug 15,BOS,Hansel Robles,5.84,5.75
+Aug 15,PIT,Heath Hembree,7.16,8.19
+Aug 15,ARI,Caleb Smith,4.66,6.03
+Aug 15,TEX,Spencer Howard,7.41,6.83
+Aug 15,DET,Elvin Rodriguez,10.04,8.19
+Aug 15,TEX,Kolby Allard,8.47,8.58
+Aug 15,- - -,Sergio Romo,7.50,7.61
+Aug 15,CHC,Matt Swarmer,5.03,7.35
+Aug 15,STL,Genesis Cabrera,3.66,5.65
+Aug 15,MIN,Joe Smith,4.61,6.30
+Aug 15,OAK,Adam Oller,7.26,6.86
+Aug 15,MIA,Elieser Hernandez,6.11,6.76
